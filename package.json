@@ -1,0 +1,36 @@
+{
+  "name": "app-to-send-files",
+  "version": "1.0.0",
+  "description": "Test app with form to send files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaVolkova/app-to-send-files.git"
+  },
+  "author": "Julia Volkova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaVolkova/app-to-send-files/issues"
+  },
+  "homepage": "https://github.com/JuliaVolkova/app-to-send-files#readme",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
